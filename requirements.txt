@@ -1,0 +1,7 @@
+h5py
+plotly
+matplotlib
+opencv-python
+numpy
+python-dotenv
+pandas

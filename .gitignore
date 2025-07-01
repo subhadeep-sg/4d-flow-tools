@@ -1,0 +1,14 @@
+data/
+venv/
+
+*.xml
+.env
+*.log
+*.tmp
+.DS_Store
+.vscode/
+
+*__pycache__/
+*.pyc
+
+.idea/
